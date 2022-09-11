@@ -24,3 +24,5 @@ Download the integration package and open https://github.com/vr4content/UnityExt
 ## Example
 There is a folder with a basic example.
 ![image](https://user-images.githubusercontent.com/83698979/189541639-9b4d4401-3800-4449-b988-ef801083deb4.png)
+
+I dont have the intention to maintain this repo but feel free to comment if there is something wrong or to contribute
