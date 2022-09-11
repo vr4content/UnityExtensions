@@ -22,4 +22,5 @@ Download the integration package and open or just copy the folder "Assets/vr4con
 6. Mith the right click on the track, create Clips in the timeline and fill them with the values you need.
 
 ## Example
-There is a folder with a basic example
+There is a folder with a basic example.
+![image](https://user-images.githubusercontent.com/83698979/189541639-9b4d4401-3800-4449-b988-ef801083deb4.png)
