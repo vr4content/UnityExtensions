@@ -11,7 +11,7 @@ This a extension to integrate Unity Atoms (https://unity-atoms.github.io/unity-a
 Its oviously dependent on Unity Atoms (have a look to their web to install) and Unity timeline package.
 
 ## How to install this package
-Download the integration package and open or just copy the folder "Assets/vr4content/TimelineExtensions" from this repo in to your project
+Download the integration package and open https://github.com/vr4content/UnityExtensions/raw/main/unityatoms.timelineextensions.unitypackage or just copy the folder "Assets/vr4content/TimelineExtensions" from this repo in to your project
 
 ## How to use
 1. Create a timeline asset with the right click on your project assets.
@@ -19,7 +19,7 @@ Download the integration package and open or just copy the folder "Assets/vr4con
 3. Open the Unity Timeline window and select your GameObject in the hierarchy
 4. Add a Unity Atom Track to the timeline
 5. Create a corresponding unity Atom entity an associate to the track (right now I have only StringEvent, StringVariable and IntVariable, but you can clone the scripts for what ever you need)
-6. Mith the right click on the track, create Clips in the timeline and fill them with the values you need.
+6. Right click on the track, create Clips in the timeline and fill them with the values you need.
 
 ## Example
 There is a folder with a basic example.
